@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=header"/>
 
 <p align="center">
      <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
@@ -6,6 +6,7 @@
      <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
 </p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
 <!--
 **megastar3dart/megastar3dart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
